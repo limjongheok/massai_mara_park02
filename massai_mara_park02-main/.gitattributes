@@ -1,4 +1,2 @@
-version: "3.9"
-
-services:
-  
+/mvnw text eol=lf
+*.cmd text eol=crlf
